@@ -1,5 +1,3 @@
-# difficulty_calculator
-
 Remake of https://github.com/aridavidson001/Jump-rope-calculator in flutter for UI and cross-platform reasons
 
 
